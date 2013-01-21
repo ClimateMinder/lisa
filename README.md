@@ -1,7 +1,8 @@
   (Deprecated)
 ================
 
-This repository has been replaced by the gh:ClimateMinder/lsrdev repository.
+This repository has been replaced by the gh:ClimateMinder/lsrdev repository 
+(https://github.com/ClimateMinder/lsrdev).
 
 This repository (lisa) will be deleted in 1 month (2/20/2013).
 
