@@ -1,4 +1,3 @@
-
   (Deprecated)
 ================
 
@@ -14,7 +13,10 @@ Lisa working Repository
 
 
 Platforms:
+
     Lisa	main platform
+
     lsrdev	lsr module (5437/2520/2591) dev board  (moved to gh:ClimateMinder/lsrdev)
+
 
 See doc/00_README for how to set these trees up.
